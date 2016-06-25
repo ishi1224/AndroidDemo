@@ -1,9 +1,9 @@
-package com.jnimobile.www.myjnidemo;
+﻿package com.jnimobile.www.myjnidemo;
 
 import android.app.Activity;
 import android.graphics.Bitmap;
 import android.os.Bundle;
-import android.widget.TextView;
+import android.widget.TextView;  
 
 import com.jnimobile.www.myjnidemo.helper.JniLib;
 
